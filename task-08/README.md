@@ -1,3 +1,3 @@
-# Approach ->
-
-This task was somewhat time-consuming. I created two files: search_window.py for fetching and displaying API data in the same window, and display_window.py for capturing and displaying Pokémon images. The capture button saves images in a "captures" folder. The display button opens a new window to show all captured Pokémon, ensuring it only works after the capture button is pressed to guarantee there's always an image to display.
+8. Blog Burst
+Blogging is like having your own digital campfire where you can share your passions, expertise, and stories with a global audience. It's an effective tool for networking, gaining credibility, and reaching a wider audience on the huge internet. Write a Medium blog post on the task that you enjoyed working on the most. Include an introduction, technical details, your thoughts and experience. Feel free to change the structure, add new details and also refrain from using any AI tools.
+Also ensure your README files as mentioned above in submission guidelines are well-structured and properly document your experiences.
