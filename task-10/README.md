@@ -68,4 +68,4 @@ The Solution:
     Thus, all the dots are joined together on the new white image to
     form the final image as shown below.
 
-> ![](./media/image1.png){width="5.333333333333333in"> height="5.333333333333333in"}
+> ![](./media/image1.png)
