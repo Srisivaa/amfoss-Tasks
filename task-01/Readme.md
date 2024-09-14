@@ -1,0 +1,3 @@
+1. Type Maestro
+
+Mastering typing is essential for programmers, yet many struggle with efficient techniques. This task introduced me to touch typing, which will boost the speed and prevent long-term neck pain. Signed up on https://monkeytype.com/ and followed the interactive lessons, committing to few minutes daily, inspite of the busy study schedule with lot of home works and assignments. Consistency builds muscle memory, so steady practice is key. Starting slow, but I hope I'll surpass the peers' speed in weeks. Remembering, touch typing is required to reach this goal, consistently practising.
