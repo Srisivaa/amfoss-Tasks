@@ -25,12 +25,7 @@ My task statistics are as shown-
 | [Task-01](https://github.com/Srisivaa/amfoss-Tasks/tree/main/task-01)   | Type Maestro | artially done|
 | [Task-02](https://github.com/Srisivaa/amfoss-Tasks/tree/main/task-02)   | Terminal Chaos | Partially done |
 | [Task-03](https://github.com/Srisivaa/amfoss-Tasks/tree/main/task-03)   | Hello, World! | Completed |
-| [Task-04](                                                          )   | Gopal and his PagePal  |  |
-| [Task-05](                                                              )   | TerminalTrolly |  |
-| [Task-06](                                                          )   | OpenDocs |  |
-| [Task-07](                                                          )   | Pirate's Dilemma |  |
 | [Task-08](https://github.com/Srisivaa/amfoss-Tasks/tree/main/task-08)   | Blog Burst | Completed |
-| [Task-09](                                                          )	  |HERO-DEX! |
 | [Task-10](https://github.com/Srisivaa/amfoss-Tasks/tree/main/task-10)   | Operation Pixel Merge |Completed |
 
 
